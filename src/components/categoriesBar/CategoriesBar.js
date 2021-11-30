@@ -53,4 +53,4 @@ const CategoriesBar = () => {
    )
 }
 
-export default CategoriesBar
+export default CategoriesBar;
